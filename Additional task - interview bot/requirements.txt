@@ -1,0 +1,15 @@
+streamlit>=1.36.0
+streamlit-webrtc>=0.47.7
+langchain>=0.2.16
+langchain-community>=0.2.16
+langchain-groq>=0.1.8
+scikit-learn>=1.5.1
+docx2txt>=0.8
+PyPDF2>=3.0.1
+groq>=0.9.0
+python-dotenv>=1.0.1
+gTTS>=2.5.1
+av>=12.3.0
+aiortc>=1.9.0
+PyMongo>=4.9.1
+bcrypt>=4.2.0
